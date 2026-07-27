@@ -280,7 +280,7 @@ Oracle • PL/SQL • OBIEE • Power BI
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com">
+<a href="[https://github.com](https://github.com/abdullamohammad)">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
