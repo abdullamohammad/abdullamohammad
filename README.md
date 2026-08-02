@@ -7,7 +7,7 @@ Hi, I'm Muhammad Abdullah
 </h1>
 
 <h3 align="center">
-Senior Data Engineer | Cloud Data Platforms | Microsoft Fabric | AWS | PySpark | Python
+Software Data Engineer | Cloud Data Platforms | Microsoft Fabric | AWS | PySpark | Python
 </h3>
 
 <p align="center">
