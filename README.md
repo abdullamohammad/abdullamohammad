@@ -239,7 +239,7 @@ Microsoft Fabric • Azure Data Factory • Dataflow Gen2 • SQL • Power BI �
 
 ---
 
-## ☁ Senior Software (Data) Engineer — Strategic Systems International
+## ☁  Software Engineer — Strategic Systems International
 
 Designed cloud-native AWS data platforms, scalable ETL frameworks, Spark pipelines, analytics dashboards, and backend services for enterprise customers.
 
