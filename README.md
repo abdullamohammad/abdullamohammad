@@ -18,7 +18,7 @@ Building scalable data platforms, modern ETL pipelines, cloud-native architectur
 
 # 👨‍💻 About Me
 
-I'm a **Senior Data Engineer** with 6+ years of experience designing scalable data platforms, cloud-native ETL pipelines, and modern analytics solutions across Microsoft Fabric and AWS.
+I'm a **Software Data Engineer** with 3+ years of experience designing scalable data platforms, cloud-native ETL pipelines, and modern analytics solutions across Microsoft Fabric and AWS.
 
 I specialize in building enterprise-grade data platforms that power analytics, reporting, and AI workloads. My expertise spans data engineering, backend development, cloud architecture, and data governance, with a strong focus on performance, scalability, and automation.
 
@@ -88,6 +88,13 @@ I enjoy solving complex engineering challenges by building reliable systems that
 - Linux
 - Infrastructure Automation
 
+## Testing
+
+- Unit Testing
+- Load Testing
+- Allure
+- Pytest
+- Stress Testing
 ---
 
 # 🚀 Featured Projects
@@ -222,7 +229,7 @@ Python • AWS Rekognition • OpenCV • FastAPI
 
 # 💼 Professional Experience
 
-## 🥤 Senior Data Engineer — Tkxel
+## 🥤 Software Data Engineer — Tkxel
 
 Worked with enterprise clients to build Microsoft Fabric and cloud data platforms including Lakehouse architecture, metadata-driven ETL pipelines, governance solutions, and data quality frameworks.
 
@@ -242,26 +249,6 @@ AWS Glue • Spark • Python • FastAPI • Flask • PostgreSQL • Redshift 
 
 ---
 
-## ⚡ Software Engineer — Odyssey Solutions
-
-Developed commercial data lakes, event-driven ingestion pipelines, backend APIs, and cloud analytics platforms.
-
-**Technologies**
-
-Python • FastAPI • AWS Lambda • Redshift • Docker
-
----
-
-## 🏥 Software Engineer — Shaukat Khanum Memorial Cancer Hospital
-
-Built enterprise ETL solutions, Oracle-based systems, and BI dashboards supporting operational reporting.
-
-**Technologies**
-
-Oracle • PL/SQL • OBIEE • Power BI
-
----
-
 # 📚 Currently Exploring
 
 - Advanced Microsoft Fabric Architecture
@@ -276,7 +263,7 @@ Oracle • PL/SQL • OBIEE • Power BI
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/mohammad-abdullah06">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
